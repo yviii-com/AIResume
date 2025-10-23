@@ -8,7 +8,7 @@
         <template #extra>
           <div class="github-section">
             <p class="preview-text">您可以在 GitHub 查看项目预览截图：</p>
-            <a href="https://github.com/weidong-repo/AIResume" target="_blank" class="github-link">
+            <a href="https://github.com/yviii-com/" target="_blank" class="github-link">
               <github-outlined />
               <span>AIResume</span>
             </a>
@@ -77,4 +77,5 @@ import { LaptopOutlined, GithubOutlined } from '@ant-design/icons-vue';
   transform: translateY(-2px);
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
+
 </style>
