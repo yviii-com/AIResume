@@ -5,15 +5,7 @@
         <template #icon>
           <laptop-outlined class="custom-icon" />
         </template>
-        <template #extra>
-          <div class="github-section">
-            <p class="preview-text">您可以在 GitHub 查看项目预览截图：</p>
-            <a href="https://github.com/yviii-com/" target="_blank" class="github-link">
-              <github-outlined />
-              <span>AIResume</span>
-            </a>
-          </div>
-        </template>
+        
       </a-result>
     </div>
   </div>
@@ -79,3 +71,4 @@ import { LaptopOutlined, GithubOutlined } from '@ant-design/icons-vue';
 }
 
 </style>
+
